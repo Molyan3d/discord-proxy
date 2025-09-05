@@ -1,0 +1,9 @@
+{
+  "name": "discord-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
